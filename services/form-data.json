@@ -1,0 +1,37 @@
+{
+	"responses": [
+		{
+			"questions": [
+				{
+					"id": "abcdef",
+					"name": "What's your name?",
+					"type": "ShortAnswer",
+					"value": "Timmy"
+				}
+			],
+			"calculations": [
+				{
+					"id": "calculation1",
+					"name": "price",
+					"type": "number",
+					"value": "12.50"
+				}
+			],
+			"urlParameters": [
+				{
+					"id": "email",
+					"name": "email",
+					"value": "Timmy@example.com"
+				}
+			],
+			"quiz": {
+				"score": 5,
+				"maxScore": 10
+			},
+			"submissionId": "abc",
+			"submissionTime": "2024-05-16T23:20:05.324Z"
+		}
+	],
+	"totalResponses": 300,
+	"pageCount": 2
+}
